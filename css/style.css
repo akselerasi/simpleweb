@@ -1,0 +1,156 @@
+body {
+  background-color: #ccc;
+  padding: 0;
+  margin: 0;
+  font-family: "Google Sans";
+  color: #212832;
+  font-size: 17pt;
+}
+.container {
+  width: 1440px;
+  height: 4774px;
+  background-color: #fff;
+  margin: 0px auto;
+}
+.hero {
+  width: 1440px;
+  height: 869px;
+  float: left;
+}
+.services {
+  width: 1440px;
+  height: 621px;
+  float: left;
+  background-color: yellowgreen;
+}
+.destinations {
+  width: 1440px;
+  height: 740px;
+  float: left;
+  background-color: blueviolet;
+}
+.book {
+  width: 1440px;
+  height: 678px;
+  float: left;
+  background-color: coral;
+}
+.testimonials {
+  width: 1440px;
+  height: 556px;
+  float: left;
+  background-color: aquamarine;
+}
+.logos {
+  width: 1440px;
+  height: 258px;
+  float: left;
+  background-color: darkcyan;
+}
+.suscribe {
+  width: 1440px;
+  height: 601x;
+  float: left;
+  background-color: rgb(153, 213, 213);
+}
+.footer {
+  width: 1440px;
+  height: 450px;
+  float: left;
+  background-color: rgb(193, 43, 98);
+}
+.logo {
+  float: left;
+  margin-left: 141px;
+  margin-top: 49px;
+}
+.menu {
+  float: left;
+  margin-left: 222px;
+  margin-top: 49px;
+}
+.menu li {
+  display: inline;
+  margin-right: 55px;
+}
+.menu li a {
+  text-decoration: none;
+  color: #212832;
+}
+.menu li a:hover {
+  border-bottom: 1px dashed #212832;
+}
+.login {
+  float: left;
+  margin-top: 49px;
+}
+.login li {
+  display: inline;
+  margin-right: 55px;
+}
+.login li a {
+  text-decoration: none;
+  color: #212832;
+}
+.login li a:hover {
+  border: 1px solid #212832;
+  border-radius: 5px;
+  background-color: #fb8500;
+  color: #fff;
+}
+.lang {
+  float: left;
+  margin-top: 49px;
+  border: 0px;
+  font-size: 13pt;
+}
+.hero_content {
+  float: left;
+  width: 1200.87px;
+  height: 764px;
+  margin-left: 141px;
+}
+.decore {
+  float: right;
+  border: 1px solid #212832;
+  z-index: 1;
+  margin-top: -1000px;
+}
+.desc {
+  float: left;
+  width: 630px;
+  height: 535px;
+  margin-top: 133px;
+}
+.girl {
+  float: right;
+  margin-top: -653px;
+  z-index: 1;
+}
+.tagline {
+  font-size: 20pt;
+  font-weight: bold;
+  font-family: "Poppins";
+  color: #df6951;
+  float: left;
+}
+.heading {
+  width: 545px;
+  height: 267px;
+  float: left;
+  font-size: 77px;
+  font-weight: bold;
+  font-family: "Volkhov";
+  color: #181e4b;
+  letter-spacing: -4%;
+  margin-top: -15px;
+}
+.description {
+  float: left;
+  width: 477px;
+  height: 90px;
+  font-family: "Poppins";
+  font-size: 16pt;
+  font-weight: 500;
+  color: #5e6282;
+}
